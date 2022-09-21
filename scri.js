@@ -71,7 +71,7 @@ aniAuto({
 	frame:[0,600],
 	play:'scroll',
 	offset:352,
-	duration:5000,
+	duration:3000,
 	startpoint:0,
 	endpoint:0.8,
 	midpoint:1
